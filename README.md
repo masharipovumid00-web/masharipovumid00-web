@@ -1,4 +1,10 @@
 ## Hi there 👋
+<h3>
+  Salom, mening ismim Jabborov Elbek
+  Men 2010-yil 1-oktabrda tug'ilganman.
+  Yoshim 15 da. Xorazm viloyati, Xonqa   tumani 46-maktabida o'qiyman.
+  Men kelajakda Kiberxavfsizlik          mutaxasisi bo'lmoqchiman.
+</h3>
 
 <!--
 **masharipovumid00-web/masharipovumid00-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
