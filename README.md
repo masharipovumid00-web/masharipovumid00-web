@@ -4,6 +4,12 @@
   Men 2010-yil 1-oktabrda tug'ilganman.
   Yoshim 15 da. Xorazm viloyati, Xonqa   tumani 46-maktabida o'qiyman.
   Men kelajakda Kiberxavfsizlik          mutaxasisi bo'lmoqchiman.
+<br>
+  Mening IT ko'nikmalarim:
+  <p>Html</p>
+  <p>Css</p>
+  <p>Javascript</p>
+  <p>Python</p>
 </h3>
 
 <!--
